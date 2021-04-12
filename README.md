@@ -1,2 +1,2 @@
 # curso-python-3
-Python 3 - Cursos Rápido (cod3r)
+Python 3 - Curso Rápido (cod3r)
